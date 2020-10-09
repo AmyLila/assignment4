@@ -11,6 +11,7 @@ public class Hello {
         Hello hello = new Hello();
         hello.sayHello( "Amy");
         System.out.println("Hello Amy, my name is Megan.");
+        System.out.println("Essa é uma mensagem em português, e Wanderson a escreveu.");
 
     }
 
